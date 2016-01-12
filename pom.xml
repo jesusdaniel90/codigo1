@@ -49,7 +49,7 @@
             </goals>
             <configuration>
               <outputDirectory>${project.build.directory}/reportesTest</outputDirectory>
-              <includeScope>runtime </includeScope> 
+              <includeScope>test </includeScope> 
             </configuration>
           </execution>
         </executions>
